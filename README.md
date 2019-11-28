@@ -1,6 +1,6 @@
 # EVS Codec
 
-Codec for Enhance Voice Services (EVS)
+3GPP Codec for Enhance Voice Services (EVS)
 
 ## References
 
